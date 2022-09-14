@@ -1,8 +1,0 @@
-Aug 09, 2022 2:38:21 PM liquibase.ext
-INFO: Set default schema name to EXT
-Aug 09, 2022 2:38:21 PM liquibase.lockservice
-INFO: Successfully acquired change log lock
-Aug 09, 2022 2:38:21 PM liquibase.changelog
-INFO: Reading from EXT.CS_TD_EXT_DATABASECHANGELOG
-Aug 09, 2022 2:38:21 PM liquibase.lockservice
-INFO: Successfully released change log lock
